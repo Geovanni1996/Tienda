@@ -8,10 +8,15 @@
     <string name="actividad2">BAJA DE PRODUCTOS</string>
     <string name="actividad3">MODIFICAR Y BUSCAR PRODUCTOS</string>
     <string name="actividad4">MENU</string>
+    <string name="user">email</string>
+    <string name="con">password</string>
     <string name="btn">AGREGAR</string>
     <string name="btn1">ELIMINAR</string>
     <string name="btn2">MODIFICAR</string>
     <string name="btn3">BUSCAR</string>
+    <string name="btn4">INGRESAR</string>
+
+
 
 
 </resources>
